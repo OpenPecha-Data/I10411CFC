@@ -1,5 +1,7 @@
 id: P007849
 initial_creation_type: ocr
+created_at: 21/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W23688
   title: རྗེ་བཙུན་རྡོ་རྗེ་རྣལ་འབྱོར་མ་ནཱ་རོ་མཁའ་སྤྱོད་དབང་མོའི་སྒྲུབ་ཐབས་བསྙེན་སྒྲུབ་སྦྱིན་སྲེག་སོགས
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 686
       base_file: v001.txt
-ebook_metadata:
-  title: རྗེ་བཙུན་རྡོ་རྗེ་རྣལ་འབྱོར་མ་ནཱ་རོ་མཁའ་སྤྱོད་དབང་མོའི་སྒྲུབ་ཐབས་བསྙེན་སྒྲུབ་སྦྱིན་སྲེག་སོགས
-  author: ''
-  sku: P007849
-  cover: cover.jpg
-  layers:
-  - pagination
